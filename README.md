@@ -1,5 +1,13 @@
 # MVerb VST Plugin
 
+
+## Acknowledgments
+
+- **Martin Eastwood**: Original creator of MVerb.
+- Open-source contributors who have improved the plugin over the years.
+
+---
+
 ## Overview
 
 MVerb is a high-quality reverb plugin built for digital audio workstations (DAWs) that support the VST standard. It offers precise control over parameters such as size, damping, density, and mix, providing a flexible and efficient reverb solution for audio production.
@@ -112,14 +120,6 @@ This project is licensed under the GNU General Public License v3. See the [LICEN
 
 ---
 
-## Acknowledgments
 
-- **Martin Eastwood**: Original creator of MVerb.
-- Open-source contributors who have improved the plugin over the years.
 
----
-
-## Contact
-
-For questions or support, please open an issue on this repository or contact the maintainer at [[your-email@example.com](mailto\:your-email@example.com)].
 
